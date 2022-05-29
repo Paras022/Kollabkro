@@ -1,4 +1,4 @@
-# Semester-4-project---Kollabkro
+Kollabkro: find partners and mentors for your project team 
 this project follows the model view controller structure 
 node modules files are also provided in the repository 
 to run the code extract all the files in your local machine and run app.js from the files through command prompt or git terminal .your application
